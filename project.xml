@@ -8,11 +8,10 @@
 			<Extensions>docx;txt;html</Extensions>
 		</Filter>
 	</ItemGroup>
-	<ItemGroup>
-	</ItemGroup>
+	<ItemGroup />
 	<Metadata>
-		<Version>1</Version>
-		<Stage>Verifier</Stage>
+		<Version>2</Version>
+		<Stage>Corrector</Stage>
 		<Corrector>None</Corrector>
 		<SanityChecker>None</SanityChecker>
 		<Verifier>None</Verifier>
