@@ -9,7 +9,7 @@
 		</Filter>
 	</ItemGroup>
 	<Configuration>
-		<Prefixmatch>True</Prefixmatch>
+		<Prefixmatch>False</Prefixmatch>
 	</Configuration>
 	<Metadata>
 		<Version>1</Version>
